@@ -1,1 +1,1 @@
-# In this repository there all the Eds subject activitys
+# In this repository, there are all the Eds subject activities
